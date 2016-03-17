@@ -1,3 +1,5 @@
+// erik-tst
+
 // ********************************************************************
 //                                                     AllPix Geant4  *
 //                 Generic Geant4 implementation for pixel detectors  *
